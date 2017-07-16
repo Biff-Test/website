@@ -2,6 +2,4 @@
 
 Hi Mark
 
-Update readme in update-readme branch
-
-Updated locally
+Updates made directly on readme.md file prior to Rebase
